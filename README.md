@@ -29,3 +29,7 @@
 - [ ] Sudoku Website
 - [ ] Chess Game
 - [ ] Arduino
+<h1 align="center">Certificate</h1>
+<h2 align="center">Python Basic Cerificate</h2>
+
+![HackerRank 1](https://github.com/13151294/13151294/blob/main/HackerRank1.png)
