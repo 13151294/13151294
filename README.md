@@ -6,8 +6,8 @@
 - Middle School Student
 <h2 align="center">My Github Stats</h2>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=13151294&show_icons=true&bg_color=101010&title_color=f947ff&icon_color=f947ff&text_color=ffffff&border_color=ffffff&border_radius=20px&hide_title=true&layout=compact" width=100%>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=13151294&show_icons=true&bg_color=101010&title_color=ffffff&icon_color=f947ff&text_color=ffffff&border_color=ffffff&border_radius=20px&layout=compact' width=100%>
+  <img src="https://github-readme-stats.vercel.app/api?username=13151294&show_icons=true&bg_color=101010&title_color=f947ff&icon_color=f947ff&text_color=ffffff&border_color=ffffff&border_radius=20px&hide_title=true&layout=compact">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=13151294&show_icons=true&bg_color=101010&title_color=ffffff&icon_color=f947ff&text_color=ffffff&border_color=ffffff&border_radius=20px&layout=compact' display = 'inline'>
 </p>
 <h2 align="center">Information</h2>
 
