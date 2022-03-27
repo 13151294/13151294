@@ -25,3 +25,6 @@
 <h2 align="center">Python Basic Cerificate</h2>
 
 ![HackerRank 1](https://github.com/13151294/13151294/blob/main/HackerRank1.png)
+<h2 align="center">Problem Solving Basic Cerificate</h2>
+
+![HackerRank Problem Solving Basic](https://github.com/13151294/13151294/blob/main/Problem%20Solving%20Basic.png)
